@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926125933526",
+    "project_id": "zapchat-3bc12",
+    "storage_bucket": "zapchat-3bc12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926125933526:android:a335ec923de0a0e1cb1a77",
+        "android_client_info": {
+          "package_name": "com.example.zap_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926125933526-2p0917mh2og6159r25nfh3nj3cpfml1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApAI0rUW4CbgDHAhKiG3PiTNiOn6UVpto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926125933526-2p0917mh2og6159r25nfh3nj3cpfml1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
