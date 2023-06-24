@@ -3,7 +3,7 @@
 Chat App Firebase 
 
 
-![Screenshot_1687607336](https://github.com/Shijuspc/zap_chat/assets/128701011/2b3d7d98-191f-4d4f-9fda-129227db0f87)
+![Screenshot_1687607336](https://github.com/Shijuspc/zap_chat/assets/128701011/2b3d7d98-191f-4d4f-9fda-129227db0f87 =250x250)
 
 ![Screenshot_1687608358](https://github.com/Shijuspc/zap_chat/assets/128701011/7a535fe3-0ccf-4c4d-8cda-ff3cf3e7506d)
 
